@@ -30,7 +30,7 @@ People call me Pasqua, currently attending the 16-week, full-time, live remote F
 <br />
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=gapasquantonio&count_private=false&show_icons=true&include_all_commits=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gapasquantonio&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=gapasquantonio&count_private=true&show_icons=true&include_all_commits=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gapasquantonio&hide=TeX&layout=compact)
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=gapasquantonio)
 
 
